@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "Nexus_Elite_OP.aternos.me",
+    "port": 55824,
     "version": "1.19.3"
   },
 
